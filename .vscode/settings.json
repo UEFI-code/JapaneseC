@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "jp_std_funcs.h": "c",
+        "__locale": "c"
+    }
+}
