@@ -18,5 +18,12 @@
 #define 真 true
 #define 偽 false
 #define 無し NULL
+#define もし if
+#define または else
+#define 時 while
+#define ために for
+#define として switch
+#define と case
+#define 破る break
 
 #define 戻ります return
